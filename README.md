@@ -1,0 +1,2 @@
+# logconsolidate
+Log consolidating script
